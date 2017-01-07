@@ -1,3 +1,9 @@
+/*
+  Author:
+  Ashutosh Kumar
+  @an_shuman777
+  Graph adjacency matrix
+*/
 #include<bits/stdc++.h>
 using namespace std;
 #define Max 1000
